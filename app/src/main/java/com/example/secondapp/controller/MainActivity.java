@@ -1,24 +1,13 @@
 package com.example.secondapp.controller;
-<<<<<<< HEAD
-=======
-import android.support.annotation.NonNull;
->>>>>>> 1752f8efd25e40c3c14ec5f0c3fdd8e2fde03c71
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
-<<<<<<< HEAD
 import android.os.Bundle;
 import android.view.MenuItem;
 import com.example.secondapp.controller.fragments.AboutUsActivity;
-=======
-import android.support.v7.app.ActionBar;
-import android.os.Bundle;
-import android.view.MenuItem;
-import com.example.secondapp.controller.AboutUsActivity;
->>>>>>> 1752f8efd25e40c3c14ec5f0c3fdd8e2fde03c71
 import com.example.secondapp.R;
 
 public class MainActivity extends AppCompatActivity {
